@@ -170,7 +170,7 @@
     "dropzone": "^5.9.3",
     "eslint-plugin-vuejs-accessibility": "^2.4.1",
     "fs": "0.0.2",
-    "jsdom": "^24.1.1",
+    "jsdom": "^25.0.0",
     "json-templater": "^1.2.0",
     "libphonenumber-js": "^1.11.5",
     "minimist": "^1.2.8",
